@@ -1,0 +1,3 @@
+ionic cordova run android
+ionic cordova run android --livereload
+emulator -avd Pixel_XL_API_25
